@@ -1,0 +1,8 @@
+discord.py==1.7.3
+asyncio
+aiohttp
+requests
+colorama
+memory_profiler
+pyshorteners
+googletrans==4.0.0-rc1
